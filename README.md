@@ -28,5 +28,5 @@ The "Sort tasks by priority" functionality sorts the tasks in the task list base
 * Clear all tasks
 The "Clear all tasks" functionality clears all the tasks from the task list, leaving it empty.
 
-** Quit
+* Quit
 The "Quit" functionality exits the JS TODO-APP and ends the program.
