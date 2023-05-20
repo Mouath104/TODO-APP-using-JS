@@ -5,8 +5,7 @@ JS TODO-APP is a command-line application that allows you to manage and organize
 ## Getting Started
 
 * To run the JS TODO-APP, make sure you have Node.js installed on your machine.
-* ```bash
-node TODO-APP.js
+* ```bash node TODO-APP.js
 * node TODO-APP.js (while in its Dir)
 
 ## It provides the following:
