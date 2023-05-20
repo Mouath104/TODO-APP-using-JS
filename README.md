@@ -2,7 +2,7 @@
 
 JS TODO-APP is a command-line application that allows you to manage and organize your tasks efficiently. 
 
-## It provides the following features:
+## It provides the following:
 
 * Add a new task
 The "Add" functionality allows you to add a new task to the task list. You can enter the task name, description, completion status, priority, and due date.
